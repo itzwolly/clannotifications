@@ -1,2 +1,2 @@
 # Example
-An example greeter plugin
+A plugin that notifies your clan chat about level-up events.
